@@ -21,3 +21,9 @@ npm run build
 ```
 
 open dist/index.html in a web browser
+
+## Test it
+
+```
+npm test
+```
