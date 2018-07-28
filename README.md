@@ -9,3 +9,15 @@ Basic Prod and Dev build pipeline for react
 3. Start up script for prod `npm run build`
 4. Configured to use SASS
 5. Can import small image files for url encoding
+
+## Initialize
+
+```
+npm install
+```
+
+```
+npm run build
+```
+
+open dist/index.html in a web browser
